@@ -9,9 +9,6 @@ A high-level summary of the essential Python libraries for quantitative trading.
 4. **Backtrader** - Backtest your trading strategies
 5. **statsmodels** - Dive deep into statistical models
 
-## Full Article
-To learn more about these libraries, including code examples and detailed explanations, read the full article on [Medium](https://medium.com/gradient-growth).
-
 ## Additional Resources
 Don't forget to check out [Commonstock.com](https://share.commonstock.com/share?inviter=prometheus) for more trading wisdom and connections with other traders.
 
